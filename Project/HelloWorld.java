@@ -2,7 +2,8 @@ Class HelloWorld
 {
 	public static void main(String args[])
 	{
-        System.out.println("Welcome To Inexture..");
+        System.out.println("Hello World......");
+        System.out.println("Hello INexture......");
         
 	}
 }
